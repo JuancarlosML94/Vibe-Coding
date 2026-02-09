@@ -35,3 +35,9 @@ Mejora el diseño visual de la landing:
 - Mejora el aspecto de botones e inputs.
 - Usa una paleta de colores tecnológica (azules, verdes o morados).
 No cambies la funcionalidad existente.
+
+PROMPT 3 – INTERACTIVIDAD
+
+Añade validaciones a los inputs y mensajes de error claros.
+Haz que los resultados aparezcan con una animación suave.
+No elimines nada del código existente.
