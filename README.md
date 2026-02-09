@@ -27,3 +27,11 @@ Contenido mínimo:
 - Footer con nota aclaratoria de que los datos son estimaciones.
 
 Usa colores suaves, tipografía legible y animaciones ligeras.
+
+PROMPT 2 – MEJORA VISUAL
+
+Mejora el diseño visual de la landing:
+- Añade transiciones suaves.
+- Mejora el aspecto de botones e inputs.
+- Usa una paleta de colores tecnológica (azules, verdes o morados).
+No cambies la funcionalidad existente.
