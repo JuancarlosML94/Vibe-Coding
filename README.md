@@ -41,3 +41,12 @@ PROMPT 3 – INTERACTIVIDAD
 Añade validaciones a los inputs y mensajes de error claros.
 Haz que los resultados aparezcan con una animación suave.
 No elimines nada del código existente.
+
+PROMPT 4 – ACCESIBILIDAD
+
+Mejora la accesibilidad:
+- Buen contraste de colores.
+- Etiquetas label en los inputs.
+- Uso correcto de elementos semánticos HTML.
+Mantén el diseño responsive.
+
